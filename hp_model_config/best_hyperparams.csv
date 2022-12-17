@@ -1,0 +1,2 @@
+dense_units,dropout_rate,learning_rate,tuner/epochs,tuner/initial_epoch,tuner/bracket,tuner/round
+1024,0.2,0.001,2,0,4,0
